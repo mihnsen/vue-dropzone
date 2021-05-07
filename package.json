@@ -57,6 +57,6 @@
     "dist"
   ],
   "dependencies": {
-    "dropzone": "^5.5.1"
+    "dropzone": "ajourln/dropzone#081cd34ff1c317159fc78aaa1a9c65356b7a4747"
   }
 }
